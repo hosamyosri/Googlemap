@@ -9,7 +9,7 @@ st.title("🖼️ Google Maps Photo Gallery (Interactive Card View)")
 
 # Inputs
 query = st.text_input("Enter Search Query", "مزايا لخدمات العمالة المنزلية")
-location = st.text_input("Enter Location", "Khobar, Saudi Arabia")
+location = st.text_input("Enter Location", "Cairo, Egypt")
 num_results = st.number_input("Number of Results to Retrieve", min_value=1, max_value=20, value=5)
 
 run_button = st.button("🔍 Search & Show Gallery")
