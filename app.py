@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Constants
-SERP_API_KEY = "d2fbac5d8025840daf9af009d957a230a40936e7eddbe3b88ecbddd821688cfb"
+SERP_API_KEY = "dd947c3d9f56e4a248956a548fabfd8b644743e68bed96a2a578873385e1411b"
 
 st.set_page_config(page_title="Google Maps", layout="wide")
 st.title("🖼️ Google Maps Photo Gallery (Interactive Card View)")
