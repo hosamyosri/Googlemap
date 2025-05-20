@@ -5,7 +5,7 @@ from io import StringIO
 
 # List of SerpAPI keys to try
 SERP_API_KEYS = [
-    "e99c480e6a906850d705d7e0fc33122864744a65",  # Primary
+    "076ab76981b519452df353f9fe805e3b167ea24887013958db71fc88fe2e0206",  # Primary
     "e75a04722079702cc1f6be18fc26398f0b325682c92bb26d4d7578958153c038"   # Secondary
 ]
 
